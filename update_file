@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+#This is a update file
+#Updating via python code
+
+import random
+
+def main():
+print("This a test update file")
+
+if __name__=="__main__":
+  main()
